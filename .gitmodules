@@ -4,9 +4,9 @@
 [submodule "Aether"]
 	path = Application/libs/Aether
 	url = https://github.com/rashevskyv/Aether
-[submodule "Translations"]
-	path = Application/romfs/lang
-	url = https://github.com/zdm65477730/NX-Activity-Log-Translations.git
 [submodule "libs/json"]
 	path = Application/libs/json
 	url = https://github.com/nlohmann/json.git
+[submodule "Application/romfs/lang"]
+	path = Application/romfs/lang
+	url = https://github.com/zdm65477730/NX-Activity-Log-Translations.git
